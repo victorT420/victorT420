@@ -1,19 +1,19 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Victor Teixeira&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=YOUR_TAGLINE&descAlignY=55" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Victor Teixeira+👋;Site Reliability Engineer;YOUR_TAGLINE" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Victor%20Teixeira&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=SRE%20%26%20DevOps%20%7C%20Cloud%20%26%20Observability&descAlignY=55" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Victor+Teixeira+%F0%9F%91%8B;Site+Reliability+Engineer;SRE+%26+DevOps+%7C+Cloud+%26+Observability" alt="Typing SVG"/>
 </div>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readmeapp.vercel.app/api?username=victorT420&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
-  <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=victorT420&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=victorT420&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorT420&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
 </p>
 
 ## 🚀 Featured Projects
 
-- **[YOUR_PROJECT_1](YOUR_PROJECT_1_DEMO)** — YOUR_PROJECT_1_DESC
-- **[YOUR_PROJECT_2](YOUR_PROJECT_2_DEMO)** — YOUR_PROJECT_2_DESC
+- **[Nome do Projeto 1](https://github.com/victorT420/repo1)** — descrição curta do que o projeto faz
+- **[Nome do Projeto 2](https://github.com/victorT420/repo2)** — descrição curta do que o projeto faz
 
 ## 🏆 Trophies
 
